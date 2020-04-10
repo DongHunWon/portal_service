@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f899288e-0320-4b12-a6fa-a50cbf0d5d98" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="userdao" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="userdao" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="userdao" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aL4bYLAreTV82WatxmXiEVoLv2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="kr.ac.jejunu.user" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.userdao [jar]">
+    <configuration name="userdao [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="UserDaoTests.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="userdao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kr.ac.jejunu.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kr.ac.jejunu.user" />
+      <option name="MAIN_CLASS_NAME" value="kr.ac.jejunu.user.UserDaoTests" />
+      <option name="METHOD_NAME" value="get" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bulid.sh" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/bulid.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.userdao [jar]" />
+        <item itemvalue="JUnit.UserDaoTests.get" />
+        <item itemvalue="Shell Script.bulid.sh" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f899288e-0320-4b12-a6fa-a50cbf0d5d98" name="Default Changelist" comment="" />
+      <created>1586501612031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586501612031</updated>
+      <workItem from="1586501615307" duration="8890000" />
+      <workItem from="1586511051440" duration="736000" />
+      <workItem from="1586511800325" duration="31000" />
+      <workItem from="1586512343628" duration="562000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1586512349478">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1586512349478" />
+    <state x="395" y="90" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1586509891986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="395" y="90" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1586509891986" />
+    <state x="467" y="176" key="FileChooserDialogImpl" timestamp="1586504265461">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="467" y="176" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1586504265461" />
+    <state width="1493" height="127" key="GridCell.Tab.0.bottom" timestamp="1586511787853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="127" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1586511787853" />
+    <state width="1493" height="127" key="GridCell.Tab.0.center" timestamp="1586511787853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="127" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1586511787853" />
+    <state width="1493" height="127" key="GridCell.Tab.0.left" timestamp="1586511787853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="127" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1586511787853" />
+    <state width="1493" height="127" key="GridCell.Tab.0.right" timestamp="1586511787853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="127" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1586511787853" />
+    <state x="252" y="54" width="1038" height="762" key="SettingsEditor" timestamp="1586509852444">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="252" y="54" width="1038" height="762" key="SettingsEditor/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1586509852444" />
+    <state x="459" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586501619324">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="459" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586501619324" />
+    <state x="180" y="22" key="new project wizard" timestamp="1586511828560">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="180" y="22" key="new project wizard/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1586511828560" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1586504159498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1586504159498" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586509875126">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1586509875126" />
+  </component>
+</project>
