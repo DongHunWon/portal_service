@@ -7,6 +7,7 @@ import org.springframework.web.servlet.mvc.Controller;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+
 @RequiredArgsConstructor
 public class SimpleController implements Controller {
     private final UserDao userDao;
